@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa21ef0b638e3324",
+        "id": "864216d009e38f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "a1afe1919e7ae4aa",
+            "id": "82c22955856bf25e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,23 +196,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1afe1919e7ae4aa",
+  "active": "82c22955856bf25e",
   "lastOpenFiles": [
+    "Assets/Images/sos-firefoxprivacy.ps1",
+    "Assets/Images/Unconfirmed 449402.crdownload",
+    "Assets/Images/dmgcover.webp",
+    "Assets/Images/Emrakul.webp",
+    "Dungeon and Dragons - Vault - Menu.md",
+    "Assets/Images/Emrakul.webp.crdownload",
+    "Assets/Images/books.webp",
+    "Assets/Images/books.webp.crdownload",
+    "Assets/Images/Emrakul.png",
+    "Assets/Images/Emrakul.png.crdownload",
+    "Assets/Images/Adventure.jpg",
+    "Assets/Images/Adventure.webp",
     "Assets/Images/Gamerules.webp.crdownload",
     "Assets/Images/character-sheet.webp",
     "Assets/Images/character-sheet.webp.crdownload",
-    "Assets/Images/Adventure.jpg",
-    "Assets/Images/Adventure.webp",
     "Assets/Images/Gamerules.webp",
     "Assets/Images/Gamerules.wpeg",
     "Assets/Images/Unconfirmed 202103.crdownload",
-    "Dungeon and Dragons - Vault - Menu.md",
     "Assets/Images/Dungeon and Dragons - Vault - Menu-20231001130225227.webp",
     "Assets/Images/Adventure.jpg.crdownload",
     "Assets/New folder",
-    "Assets/Images",
-    "Assets",
-    "New folder",
     "Adventures.md",
     "Link.md",
     "Untitled 1.md",
@@ -233,15 +239,10 @@
     "Shared Content/Pathfinder/One Shot Adventures/A Fistful of Flowers/Ch1. The Great Grain Robbery.md",
     "Shared Content/DnD5e/How To - Obtain Images.md",
     "z_Assets/Pasted image 20230628082435.png",
-    "img/rules",
-    "z_Assets/Pasted image 20230628082302.png",
     "Tutorials/YouTube Series/April's Automatic Timelines/April's Automatic Timelines.md",
     "Shared Content/DnD5e/Waterdeep - Dungeon of the Mad Mage.md",
     "Shared Content/DnD5e/TftYP - Against the Giants.md",
     "Shared Content/DnD5e/TftYP - Dead in Thay.md",
-    "Shared Content/DnD5e/Feats/Feats.md",
-    "z_Assets/Pasted image 20230628081645.png",
-    "z_Assets/Pasted image 20230628081232.png",
-    "z_Assets/GemmyDM.png"
+    "Shared Content/DnD5e/Feats/Feats.md"
   ]
 }
