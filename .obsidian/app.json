@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "z_Assets",
+  "showUnsupportedFiles": true,
+  "showFrontmatter": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}
