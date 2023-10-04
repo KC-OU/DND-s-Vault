@@ -1,10 +1,11 @@
 {
   "readableLineLength": false,
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": false,
   "attachmentFolderPath": "z_Assets",
   "showUnsupportedFiles": true,
   "showFrontmatter": false,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }

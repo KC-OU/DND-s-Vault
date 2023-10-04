@@ -4,18 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "864216d009e38f5d",
+        "id": "85536d5890b35c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "82c22955856bf25e",
+            "id": "13e454c4a6ddc64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon and Dragons - Vault - Menu.md",
-                "mode": "preview",
+                "file": "Adventures/LOST MINE OF PHANDELVER.md",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "057ea6144b000e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hluthvar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 281.5
   },
   "right": {
     "id": "4376769ea3073bd6",
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon and Dragons - Vault - Menu.md",
+                "file": "Adventures/LOST MINE OF PHANDELVER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon and Dragons - Vault - Menu.md",
+                "file": "Adventures/LOST MINE OF PHANDELVER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon and Dragons - Vault - Menu.md"
+                "file": "Adventures/LOST MINE OF PHANDELVER.md"
               }
             }
           },
@@ -196,30 +208,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82c22955856bf25e",
+  "active": "13e454c4a6ddc64c",
   "lastOpenFiles": [
-    "Assets/Images/sos-firefoxprivacy.ps1",
-    "Assets/Images/Unconfirmed 449402.crdownload",
-    "Assets/Images/dmgcover.webp",
-    "Assets/Images/Emrakul.webp",
+    "Assets/img/adventure/LMoP/Wave-Echo-Cave.webp",
+    "Assets/img/adventure/LMoP/Wave-Echo-Cave-(Player).webp",
+    "Assets/img/adventure/LMoP/The-Sword-Coast.webp",
+    "Assets/img/adventure/LMoP/Ruins-of-Thundertree.webp",
+    "Assets/img/adventure/LMoP/Ruins-of-Thundertree-(Player).webp",
+    "Assets/img/adventure/LMoP/Redbrand-Hideout.webp",
+    "Assets/img/adventure/LMoP/Redbrand-Hideout-(Player).webp",
+    "Assets/img/adventure/LMoP/Cragmaw-Castle-(Player).webp",
+    "Assets/img/adventure/LMoP/Cragmaw-Castle.webp",
+    "Assets/img/adventure/LMoP/Cragmaw-Hideout.webp",
+    "Adventures/LOST MINE OF PHANDELVER.md",
+    "Adventures/Adventures.md",
     "Dungeon and Dragons - Vault - Menu.md",
-    "Assets/Images/Emrakul.webp.crdownload",
-    "Assets/Images/books.webp",
-    "Assets/Images/books.webp.crdownload",
-    "Assets/Images/Emrakul.png",
-    "Assets/Images/Emrakul.png.crdownload",
-    "Assets/Images/Adventure.jpg",
-    "Assets/Images/Adventure.webp",
-    "Assets/Images/Gamerules.webp.crdownload",
-    "Assets/Images/character-sheet.webp",
-    "Assets/Images/character-sheet.webp.crdownload",
-    "Assets/Images/Gamerules.webp",
-    "Assets/Images/Gamerules.wpeg",
-    "Assets/Images/Unconfirmed 202103.crdownload",
-    "Assets/Images/Dungeon and Dragons - Vault - Menu-20231001130225227.webp",
-    "Assets/Images/Adventure.jpg.crdownload",
-    "Assets/New folder",
-    "Adventures.md",
+    "Assets/img/adventure/LMoP/Cragmaw Castle-(Player).webp",
+    "Assets/img/adventure/LMoP",
+    "Assets/img/adventure/New folder",
+    "Assets/img/adventure",
+    "Assets/img/New folder",
+    "Assets/img/Lost Mine of Phandelver",
+    "Assets/img/dtrpg-2023-10-03_09-43am.zip",
+    "Assets/img/5etools-mirror-1 5etools-mirror-1.github.io master img-adventure_LMoP.zip",
+    "Assets/img",
+    "Assets/Images/0Pa15984",
+    "Assets/Images/5etools-mirror-1 5etools-mirror-1.github.io master img-adventure_LMoP.zip",
+    "mobile-07-elf-wizard.webp.md",
+    "Character Sheet/Character Sheet.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Dwarven Cleric.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 1.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Halfling Rogue.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Elf Wizard.md",
+    "Assets/Images/Lost Mine of Phandelver.md",
+    "Untitled.canvas",
+    "Last Modified.md",
+    "Recent Created.md",
     "Link.md",
     "Untitled 1.md",
     "d.md",
@@ -231,18 +256,6 @@
     "Shared Content/DnD5e/compendium/adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
     "Shared Content/DnD5e/Books/Books.md",
     "Shared Content/DnD5e/Backgrounds/Backgrounds.md",
-    "Shared Content/DnD5e/Adventures/Adventures.md",
-    "Shared Content/Pathfinder/Pathfinder.md",
-    "Shared Content/Pathfinder/One Shot Adventures/A Fistful of Flowers/A Fistful of Flowers.md",
-    "Shared Content/Pathfinder/One Shot Adventures/A Fistful of Flowers/Ch3. Concluding the Adventure.md",
-    "Shared Content/Pathfinder/One Shot Adventures/A Fistful of Flowers/Ch2. Dig Four Plots.md",
-    "Shared Content/Pathfinder/One Shot Adventures/A Fistful of Flowers/Ch1. The Great Grain Robbery.md",
-    "Shared Content/DnD5e/How To - Obtain Images.md",
-    "z_Assets/Pasted image 20230628082435.png",
-    "Tutorials/YouTube Series/April's Automatic Timelines/April's Automatic Timelines.md",
-    "Shared Content/DnD5e/Waterdeep - Dungeon of the Mad Mage.md",
-    "Shared Content/DnD5e/TftYP - Against the Giants.md",
-    "Shared Content/DnD5e/TftYP - Dead in Thay.md",
-    "Shared Content/DnD5e/Feats/Feats.md"
+    "Shared Content/DnD5e/Adventures/Adventures.md"
   ]
 }

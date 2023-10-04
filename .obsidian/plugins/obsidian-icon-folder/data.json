@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiHomePlus",
+      "TiMapOff",
+      "TiAsset"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Assets": "TiAsset",
+  "Adventures": "TiMapOff",
+  "Dungeon and Dragons - Vault - Menu.md": "TiHomePlus"
+}

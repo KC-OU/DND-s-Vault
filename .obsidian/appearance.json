@@ -1,13 +1,13 @@
 {
   "accentColor": "#04ff00",
   "cssTheme": "ITS Theme",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "Minimal_Circle",
     "S - Image Adjustments",
     "FantasyFonts"
   ],
-  "baseFontSize": 19,
+  "baseFontSize": 17,
   "textFontFamily": "Century Gothic",
   "translucency": false
 }
