@@ -11149,11 +11149,11 @@
   "long": -82.98333,
   "notePreview": true,
   "layerMarkers": true,
-  "previousVersion": "5.6.1",
+  "previousVersion": "5.7.3",
   "version": {
     "major": 5,
-    "minor": 6,
-    "patch": 1
+    "minor": 7,
+    "patch": 3
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": true,

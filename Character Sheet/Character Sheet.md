@@ -1,3 +1,4 @@
+
 A Dungeons & Dragons (DND) character sheet is a fundamental tool used in the world of tabletop role-playing games (RPGs), specifically for the popular fantasy RPG system, Dungeons & Dragons. It serves as a comprehensive record of all the important information and statistics for a player's in-game persona, or character. These character sheets are not merely pieces of paper; they are portals into the imaginative realms where players embark on epic adventures, battle mythical creatures, and interact with diverse characters.
 
 A typical DND character sheet is typically divided into several sections, each serving a unique purpose:
@@ -25,19 +26,5 @@ Character sheets serve as the bridge between the player's imagination and the ga
 
 Overall, a DND character sheet is a vital tool that helps players immerse themselves in the rich and immersive worlds of Dungeons & Dragons, enabling them to bring their unique and imaginative characters to life in collaborative storytelling adventures with friends and fellow adventurers.
 
-```dataview
-TABLE WITHOUT ID file.link AS "Character Sheet"
-FROM #character-sheet
-WHERE file.cday
-SORT file.ctime Asc
-LIMIT 5
-```
 
-
-```dataview
-TABLE WITHOUT ID file.link AS "Adventure Character Sheet"
-FROM #Adventure-character-sheets
-WHERE file.cday
-SORT file.ctime Asc
-LIMIT 5
-```
+![[Adventures-character-sheets]]

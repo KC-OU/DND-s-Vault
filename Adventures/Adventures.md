@@ -21,10 +21,6 @@ Examples of D&D adventures might include:
 
 D&D adventures offer a rich storytelling experience, fostering creativity, collaboration, and imagination among the participants. The outcome of each adventure is determined by the choices of the players, making each playthrough a unique and memorable journey into the realms of fantasy.
 
-```dataview
-TABLE WITHOUT ID file.link AS "Adventures"
-FROM #adventure
-WHERE file.cday
-SORT file.ctime Asc
-LIMIT 5
-```
+![[Adventures-1]]
+
+

@@ -18,9 +18,10 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false
   },
   "Assets": "TiAsset",
   "Adventures": "TiMapOff",
-  "Dungeon and Dragons - Vault - Menu.md": "TiHomePlus"
+  "Dungeons and Dragons - Vault.md": "TiHomePlus"
 }

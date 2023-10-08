@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "85536d5890b35c0a",
+        "id": "c971eeced88cd474",
         "type": "tabs",
         "children": [
           {
-            "id": "13e454c4a6ddc64c",
+            "id": "406acc5fdef7f09c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/LOST MINE OF PHANDELVER.md",
+                "file": "Assets/Templates/Update Publish Files.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "057ea6144b000e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
-                "mode": "preview",
-                "source": false
               }
             }
           }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#adventure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/LOST MINE OF PHANDELVER.md",
+                "file": "Assets/Templates/Update Publish Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/LOST MINE OF PHANDELVER.md",
+                "file": "Assets/Templates/Update Publish Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/LOST MINE OF PHANDELVER.md"
+                "file": "Assets/Templates/Update Publish Files.md"
               }
             }
           },
@@ -158,14 +146,6 @@
             }
           },
           {
-            "id": "8311ab8551d6bebd",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "e00c8417330298ad",
             "type": "leaf",
             "state": {
@@ -174,7 +154,25 @@
             }
           },
           {
-            "id": "22a80c0f52b5e4c7",
+            "id": "6b52ef859937ef99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "7cc3f2d4c45f6782",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "a010df59de52e7ba",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -186,30 +184,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian42-brat:BRAT": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "13e454c4a6ddc64c",
+  "active": "2911de48d50d504c",
   "lastOpenFiles": [
+    "Character Sheet-1.md",
+    "Adventures-character-sheets.md",
+    "DnD Character Sheet.md",
+    "Last Modified.md",
+    "Adventures/LOST MINE OF PHANDELVER.md",
+    "Assets/Templates/Update Publish Files.md",
+    "Adventures-1.md",
+    "Added Files.md",
+    "Character Sheet/Character Sheet.md",
+    "Assets/Buttons.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Dwarven Cleric.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 1.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Halfling Rogue.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Elf Wizard.md",
+    "Dungeons and Dragons - Vault.md",
+    "D&D VAULT.md",
+    "Adventures/Adventures.md",
+    "Assets/Templates/S.md",
+    "Assets/img/obsidian-hub-main.zip",
+    "Assets/img/Unconfirmed 631416.crdownload",
+    "Assets/img/logo.png",
+    "TEST.md",
+    "Assets/Templates/Recent Created.md",
+    "Recent Created.md",
+    "Assets/Templates",
+    "Assets/New folder",
+    "publish.css",
     "Assets/img/adventure/LMoP/Wave-Echo-Cave.webp",
     "Assets/img/adventure/LMoP/Wave-Echo-Cave-(Player).webp",
     "Assets/img/adventure/LMoP/The-Sword-Coast.webp",
@@ -219,43 +246,15 @@
     "Assets/img/adventure/LMoP/Redbrand-Hideout-(Player).webp",
     "Assets/img/adventure/LMoP/Cragmaw-Castle-(Player).webp",
     "Assets/img/adventure/LMoP/Cragmaw-Castle.webp",
-    "Assets/img/adventure/LMoP/Cragmaw-Hideout.webp",
-    "Adventures/LOST MINE OF PHANDELVER.md",
-    "Adventures/Adventures.md",
-    "Dungeon and Dragons - Vault - Menu.md",
-    "Assets/img/adventure/LMoP/Cragmaw Castle-(Player).webp",
     "Assets/img/adventure/LMoP",
     "Assets/img/adventure/New folder",
     "Assets/img/adventure",
     "Assets/img/New folder",
     "Assets/img/Lost Mine of Phandelver",
-    "Assets/img/dtrpg-2023-10-03_09-43am.zip",
-    "Assets/img/5etools-mirror-1 5etools-mirror-1.github.io master img-adventure_LMoP.zip",
-    "Assets/img",
-    "Assets/Images/0Pa15984",
-    "Assets/Images/5etools-mirror-1 5etools-mirror-1.github.io master img-adventure_LMoP.zip",
     "mobile-07-elf-wizard.webp.md",
-    "Character Sheet/Character Sheet.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Dwarven Cleric.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 1.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Halfling Rogue.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Elf Wizard.md",
     "Assets/Images/Lost Mine of Phandelver.md",
     "Untitled.canvas",
-    "Last Modified.md",
-    "Recent Created.md",
     "Link.md",
-    "Untitled 1.md",
-    "d.md",
-    "Shared Content/Pathfinder/World.md",
-    "Shared Content/DnD5e/compendium/backgrounds/azorius-functionary-ggr.md",
-    "Shared Content/DnD5e/compendium/backgrounds/athlete-mot.md",
-    "Shared Content/DnD5e/compendium/backgrounds/backgrounds.md",
-    "Shared Content/DnD5e/compendium/adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
-    "Shared Content/DnD5e/compendium/adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
-    "Shared Content/DnD5e/Books/Books.md",
-    "Shared Content/DnD5e/Backgrounds/Backgrounds.md",
-    "Shared Content/DnD5e/Adventures/Adventures.md"
+    "Untitled 1.md"
   ]
 }
