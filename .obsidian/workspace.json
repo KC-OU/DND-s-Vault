@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c971eeced88cd474",
+        "id": "375cfe3960ed133a",
         "type": "tabs",
         "children": [
           {
-            "id": "406acc5fdef7f09c",
+            "id": "67f1bc2ab1453001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Templates/Update Publish Files.md",
-                "mode": "source",
+                "file": "Dungeons and Dragons - Vault.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Templates/Update Publish Files.md",
+                "file": "Dungeons and Dragons - Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Templates/Update Publish Files.md",
+                "file": "Dungeons and Dragons - Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Templates/Update Publish Files.md"
+                "file": "Dungeons and Dragons - Vault.md"
               }
             }
           },
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,26 +208,27 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "67f1bc2ab1453001",
   "lastOpenFiles": [
-    "Character Sheet-1.md",
-    "Adventures-character-sheets.md",
-    "DnD Character Sheet.md",
-    "Last Modified.md",
-    "Adventures/LOST MINE OF PHANDELVER.md",
-    "Assets/Templates/Update Publish Files.md",
-    "Adventures-1.md",
-    "Added Files.md",
     "Character Sheet/Character Sheet.md",
-    "Assets/Buttons.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Dwarven Cleric.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 1.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Halfling Rogue.md",
-    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Elf Wizard.md",
     "Dungeons and Dragons - Vault.md",
-    "D&D VAULT.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Dwarven Cleric.md",
+    "Character Sheet-1.md",
     "Adventures/Adventures.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Elf Wizard.md",
+    "Adventures/LOST MINE OF PHANDELVER.md",
+    "Added Files.md",
+    "Adventures-1.md",
+    "Adventures-character-sheets.md",
+    "Last Modified.md",
+    "Assets/Templates/Character Creation.md",
+    "Assets/Templates/Update Publish Files.md",
+    "Assets/Buttons.md",
+    "DnD Character Sheet.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Halfling Rogue.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 1.md",
+    "Character Sheet/Adventure Pre-Made/LOST MINE OF PHANDELVER/LOST MINE OF PHANDELVER - Human Fighter 2.md",
+    "D&D VAULT.md",
     "Assets/Templates/S.md",
     "Assets/img/obsidian-hub-main.zip",
     "Assets/img/Unconfirmed 631416.crdownload",
@@ -253,8 +255,6 @@
     "Assets/img/Lost Mine of Phandelver",
     "mobile-07-elf-wizard.webp.md",
     "Assets/Images/Lost Mine of Phandelver.md",
-    "Untitled.canvas",
-    "Link.md",
-    "Untitled 1.md"
+    "Untitled.canvas"
   ]
 }

@@ -1,19 +1,19 @@
----
-tags:
-  - Adventure-character-sheets
----
+<!-- #Adventure-character-sheets -->
+
+#IgnorePublish 
+
 
 > [!infobox] Infobox
 > # Character Name
 > ### Player Name
-> ![[mobile-07-elf-wizard.webp|cover hsmall]]
+> ![[|cover hsmall]]
 > ###### Character Info
 > | Type | Stat |
 > | ---- | ---- |
-> | Class & Level | Wizard  |
-> | Background |  Acolyte  |
-> | Race | High Elf            |
-> | Alignment |Chaotic good |
+> | Class & Level |  |
+> | Background |     |
+> | Race |            |
+> | Alignment | |
 
 # Backstory and information
 

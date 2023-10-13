@@ -1,5 +1,7 @@
-#Adventure-character-sheets 
-
+---
+tags:
+  - Adventure-character-sheets
+---
 > [!infobox] Infobox
 > # Character Name
 > ### Player Name
@@ -12,7 +14,7 @@
 > | Race | Hill Dwarf           |
 > | Alignment | Neutral good |
 
-# Backstory and infomation
+# Backstory and information
 
 Trained as a soldier on the island of Mintarn, you traveled to Neverwinter as part of a mercenary company that serves as both army and city watch. You grew disillusioned with your fellow soldiers, who seem to enjoy their authority at the expense of the people they’re supposed to protect. Everything came to a head recently, when you disobeyed an order and followed your conscience. You were suspended from active duty, though you kept your rank and your connection to the mercenaries. Since then, you have devoted yourself to your deity.
 

@@ -1,4 +1,4 @@
-
+#IgnorePublish 
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
@@ -7,7 +7,7 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
     "Last Modified",
-    'TABLE file.mtime AS "Last Modified" FROM "" SORT file.mtime Asc LIMIT 5',
+    'TABLE file.mtime AS "Last Modified" FROM "" SORT file.mtime Asc LIMIT 5',,
   ],
   [
     "Added Files",
@@ -15,16 +15,19 @@ const fileAndQuery = new Map([
   ],
   [
     "Adventures-1",
-    'TABLE WITHOUT ID file.link AS "Adventures" FROM #adventure WHERE file.cday SORT file.ctime Asc LIMIT 5',
+    'TABLE WITHOUT ID file.link AS "Adventures" FROM #adventure AND -#IgnorePublish WHERE file.cday SORT file.ctime Asc LIMIT 5',
   ],
   [
-    "Character Sheet-1",
-    'TABLE WITHOUT ID file.link AS "Character Sheet" FROM #character-sheet WHERE file.cday SORT file.ctime Asc LIMIT 5',  
+    "Character Sheet-1",#IgnorePublish 
+
+
+
+    'TABLE WITHOUT ID file.link AS "Character Sheet" FROM #character-sheet AND -#IgnorePublish WHERE file.cday SORT file.ctime Asc LIMIT 5',  
   ],
 
   [
     "Adventures-character-sheets",
-    'TABLE WITHOUT ID file.link AS "Adventure Character Sheet" FRiM #Adventure-character-sheets WHERE file.cday SORT file.ctime Asc LIMIT 5',
+    'TABLE WITHOUT ID file.link AS "Adventure Character Sheet" FROM #Adventure-character-sheets AND -#IgnorePublish WHERE file.cday SORT file.ctime Asc LIMIT 5',
   ],
 ]);
 

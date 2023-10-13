@@ -1,4 +1,8 @@
-#adventure
+---
+tags:
+  - adventure
+---
+
 ![[lost-mines-of-phandelver-dungeons-and-dragons-5E-artwork.webp]]
 
 # Introduction
